@@ -18,4 +18,5 @@ data:
   ocp.replicas: "{{ocp.replicas}}"
   ocp-cluster.registry: "{{ocp-cluster.registry}}"
   ocp-namespace: "{{ocp-namespace}}"
+  ctie.test: "{{ctie.test}}"
 ---
